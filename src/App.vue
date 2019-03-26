@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+  <!--    <img src="./assets/logo.png">-->
+    <!--    This div is contains the different content based what is loaded by the router-->
     <div>
       <router-view/>
     </div>
